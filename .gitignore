@@ -1,0 +1,4 @@
+.env
+secreto.txt
+__pycache__/
+.vscode/
